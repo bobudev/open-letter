@@ -255,7 +255,7 @@ Other ideas:
   - Example of successful campaigns
 - "Proof of Bobu's Work (PoBW)"
   - About page showcasing successful proposals
-    -...
+  - ...
 
 I acknowledge that these tasks exceed the scope of a part-time position. My intention is to attend meetings, provide guidance on technical matters to the committee, proposal drafters, or Chiru Labs, and, with permission, work on these issues. I will write tickets if I lack collaborator access to the repositories or might prepare my own proposals. While I'm unsure if it's possible to work on all these issues, I want to express my willingness to.
 
