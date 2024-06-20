@@ -1,5 +1,10 @@
 # An Open Letter to the Bobus It May Concern
 
+> [!IMPORTANT]
+> I can be reached at this email address: [bobu.devinson@gmail.com](mailto:bobu.devinson@gmail.com)
+> 
+> X has suspended [my account](https://x.com/bobudev) due to what is most likely a well-intentioned user report. I've submitted an appeal for now.
+
 Yo Bobu, :wave:
 
 It's me, Bobu. I'm writing this letter to throw my lantern into the ring for ~~CTO of Bobu~~ [part-time Jr. Full Stack Developer](https://docs.google.com/forms/d/e/1FAIpQLSc42Z27328oMuo4LBGVGPUk1p3YFpFw8-lFXs6ji3WfpjO2vQ/viewform) position.
