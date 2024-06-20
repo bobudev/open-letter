@@ -2,13 +2,14 @@
 
 Yo Bobu, :wave:
 
-It's me, Bobu. I'm writing this letter to apply for the [part-time Jr. Full Stack Developer](https://docs.google.com/forms/d/e/1FAIpQLSc42Z27328oMuo4LBGVGPUk1p3YFpFw8-lFXs6ji3WfpjO2vQ/viewform) position.
+It's me, Bobu. I'm writing this letter to throw my lantern into the ring for ~~CTO of Bobu~~ [part-time Jr. Full Stack Developer](https://docs.google.com/forms/d/e/1FAIpQLSc42Z27328oMuo4LBGVGPUk1p3YFpFw8-lFXs6ji3WfpjO2vQ/viewform) position.
 
 I hope to convince you through this letter that I'm the right Bobu for the job and maybe teach you something new about Bobu.
 
 ## Table of Contents
 
 - [An Open Letter to the Bobus It May Concern](#an-open-letter-to-the-bobus-it-may-concern)
+  - [Table of Contents](#table-of-contents)
   - [What I've Done](#what-ive-done)
   - [Who is Bobu?](#who-is-bobu)
   - [Proposals](#proposals)
@@ -16,6 +17,7 @@ I hope to convince you through this letter that I'm the right Bobu for the job a
   - [What I believe I can contribute to the Bobu Experiment](#what-i-believe-i-can-contribute-to-the-bobu-experiment)
     - [Reasoning](#reasoning)
   - [Relevant work](#relevant-work)
+    - [Web Consultancy](#web-consultancy)
     - [Bobu Countdown](#bobu-countdown-demo--repo-2)
     - [Whispers of Taiji](#whispers-of-taiji)
   - [Conclusion](#conclusion)
@@ -52,7 +54,7 @@ Proposals can be on anything related to Bobu. The current proposal process invol
 
 ## Proposals
 
-As of **June 18th, 2024**, we've had 14 proposals.
+As of **June 20th, 2024**, we've had 14 proposals.
 
 > [!NOTE]
 > The [Proposals](https://bobu.azuki.com/proposals) page has two errors:
@@ -110,12 +112,11 @@ I've rewritten this section several times before I realized that the most effect
   - [ ] ...
 - [ ] Fix the nav on screen widths 1024px-1224px
 - [ ] Request Chiru Labs to produce missing pixel art for proposals 7-14 or request to have them removed as it looks inconsistent
-- [ ] Request the committee to review the content for [Home](https://bobu.azuki.com/) and [Governance](https://bobu.azuki.com/governance) page as they are outdated
+- [ ] Request the committee to review the content for [Home](https://bobu.azuki.com/), [Bobu 101](https://bobu.azuki.com/bobu-101), and [Governance](https://bobu.azuki.com/governance) page as they are outdated
 - [ ] Archive less relevant pages:
   - [ ] [Mint](https://bobu.azuki.com/mint)
   - [ ] [Bobu's Beans Bucket](https://bobu.azuki.com/buckethat)
   - [ ] ...
-- [ ] Update [Bobu 101](https://bobu.azuki.com/bobu-101)
 - [ ] Create a page similar to Azuki's [About](https://azuki.com/about) page to showcase what we've already accomplished
 - [ ] Learn each detail of the proposal process
 - [ ] Rework the proposal process
@@ -230,9 +231,9 @@ From Po-Lore-oid:
 
 </details>
 
-Po-Lore-oid was a step in the right direction, but we still lack basic story elements to build on. People need a reason to care. The situation may have been different if Bobu was a cat, but he is not. Possible proposal? :thinking:
+Po-Lore-oid was a step in the right direction, but we still lack basic story elements to build on. People need a reason to care. The situation may have been different if Bobu was a cat. Characters like Sanrio's Hello Kitty can become popular just by being cute. I'm making an assumption here, but I don't think there is a market for drunk bean farmers (yet).
 
-Anyway, making Bobu's story more coherent is crucial for advancing the experiment. This requires realigning Chiru Labs, the committee, and token holders. Meanwhile, the site should be updated and optimized for clarity and proposals.
+Anyway, making Bobu's story more coherent is crucial for advancing the experiment. This requires realigning Chiru Labs, the committee, and token holders. In the meantime, the site should be updated and optimized for clarity and proposals.
 
 Some examples of improvements:
 
@@ -255,11 +256,22 @@ Other ideas:
   - Example of successful campaigns
 - "Proof of Bobu's Work (PoBW)"
   - About page showcasing successful proposals
-  - ...
+    -...
 
-I acknowledge that these tasks exceed the scope of a part-time position. My intention is to attend meetings, provide guidance on technical matters to the committee, proposal drafters, or Chiru Labs, and, with permission, work on these issues. I will write tickets if I lack collaborator access to the repositories or might prepare my own proposals. While I'm unsure if it's possible to work on all these issues, I want to express my willingness to.
+I acknowledge that these tasks exceed the scope of a part-time position. My intention is to attend meetings, [provide guidance on technical matters](#web-consultancy) to proposal drafters, the committee, or Chiru Labs, and, with permission, work on these issues. I will write tickets if I lack collaborator access to the repositories or might prepare my own proposals. While I'm unsure if it's possible to work on all these issues, I want to express my willingness to.
 
 ## Relevant work
+
+### Web Consultancy
+
+I had a brief stint as a consultant for businesses trying to use the web more effectively. I learned many tough lessons from my own businesses that I shared with clients.
+
+- Always set domains on autorenewal
+- Stick with the stack that you're most productive with
+- Tools like Shopify often can do the job fine
+- Use password managers and 2FA
+
+I don't have experience with running ads although I have friends that do. I'm in the camp of making good products and focusing on content marketing. I keep track of recent trends and know about most offerings like [Resend](https://resend.com/), [Webflow](https://webflow.com/), and even some more obscure ones like [GitButler](https://gitbutler.com/) although almost all the clients I worked with never needed anything more sophisticated than a static site, headless CMS, and a form (or Shopify for the ecommerce businesses).
 
 ### Bobu Countdown ([Demo](https://bobu-three.vercel.app/) | [Repo](https://github.com/bobudev/countdown)) [^2]
 
@@ -277,7 +289,7 @@ Thankfully, launch went without a hitch.
 
 ### Whispers of Taiji
 
-This project is in development. It's based on an Azuki Elemental. Information about it is sensitive, but I have received permission to share it if we were to have a call.
+This project is in development. It uses an Azuki Elementals license. Information about it is sensitive, but I have received permission to share it if we were to have a call.
 
 ## Conclusion
 
